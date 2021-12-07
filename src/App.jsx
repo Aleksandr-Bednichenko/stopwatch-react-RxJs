@@ -72,6 +72,7 @@ const App = () => {
 
   function reset() {
     setTime(0);
+    start();
   }
 
   return (
